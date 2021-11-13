@@ -1,4 +1,4 @@
-# DIO-Primeiro-Reposit-rio
+# Repositório - DIO
 Desafio primeiro repositório GitHub
 
 ## Links Úteis
